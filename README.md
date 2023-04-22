@@ -146,5 +146,6 @@ Siga os passos abaixo!
 
 ## Agradecimentos especiais para
 
-- [@adiwajshing/baileys](https://github.com/adiwajshing/Baileys) 
-- [ToinNetuh](https://github.com/ToinNetuh)
+- [@vonheldh/github](https://github.com/VonHeldh/Pingos-AI) 
+- [@vonheldh/instagram](https:/instagram.com/vonheldh)
+- [@vonheldh/twitter](https:/twitter.com/VonHeldh)
