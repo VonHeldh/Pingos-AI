@@ -1,4 +1,4 @@
-### Oii sou o Brayan
+### Oii sou o Von Heldh
 
 
 
@@ -30,7 +30,7 @@ Siga os passos abaixo!
 > pkg install wget
 > pkg install nodejs
 > pkg install npm
-> git clone https://github.com/BigBraim/BigBraim.git
+> git clone https://github.com/VonHeldh/Pingos-AI.git
 > cd BigBraim
 > bash install.sh
 ```
